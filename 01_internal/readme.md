@@ -2,7 +2,7 @@
 跨跃父目录无法使用internal中定义的实体
 a.go无法使用internal定义下的包
 ```shell
-02_internal
+01_internal
 |____a
 | |____a.go
 |____readme.md

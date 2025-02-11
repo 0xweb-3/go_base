@@ -2,7 +2,7 @@ package d
 
 import (
 	"fmt"
-	"github.com/0xweb-3/go_base/02_internal/b/internal/c"
+	"github.com/0xweb-3/go_base/01_internal/b/internal/c"
 )
 
 type D struct {
