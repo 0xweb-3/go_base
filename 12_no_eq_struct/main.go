@@ -35,12 +35,12 @@ func main() {
 	//fmt.Println("p2 == p3", p2 == p3) // 不同类型不能比较
 
 	//p5 := struct {
-	//	Name string
+	//	Name 25_string
 	//	Age  int
 	//}{}
 	//
 	//p6 := struct {
-	//	Name string
+	//	Name 25_string
 	//	Age  int
 	//}{}
 	//

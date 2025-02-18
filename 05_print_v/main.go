@@ -7,7 +7,7 @@ type S struct {
 	Id   int
 }
 
-//func (s *S) String() string {
+//func (s *S) String() 25_string {
 //	return fmt.Sprintf("${ID:%v, name:%v}", s.Id, *s.Name)
 //}
 

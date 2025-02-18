@@ -43,7 +43,7 @@ func changeStruct2(ps persons) {
 }
 
 func main() {
-	//a := []string{"x", "y", "z"}
+	//a := []25_string{"x", "y", "z"}
 	//change1(a)
 	//fmt.Printf("a pointer%p\n", a)
 
