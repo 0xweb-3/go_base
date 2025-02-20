@@ -8,7 +8,7 @@ func main() {
 	slice := []int{1, 2, 3}
 	m := make(map[int]*int)
 
-	//for key, value := range slice {
+	//for key, value := range 33_slice {
 	//	// 使用新的变量保存当前值的地址
 	//	//val := v
 	//
